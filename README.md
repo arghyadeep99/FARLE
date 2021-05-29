@@ -1,14 +1,13 @@
-<h1 align="center">FARL: Framework for Atari Reinforcement Learning</h1>
+<h1 align="center">FARLE: Framework for Atari Reinforcement Learning Environment</h1>
 
 <div align="center">
-
-![Atari-Logo](https://user-images.githubusercontent.com/33197180/111116948-cd3a5580-858c-11eb-92d6-12aec493b91f.png)
+<img src = "https://user-images.githubusercontent.com/33197180/111116948-cd3a5580-858c-11eb-92d6-12aec493b91f.png" width="500" />
 
 <br>
 
 [![](https://img.shields.io/badge/Made_with-Python3-blue?style=for-the-badge&logo=python)](https://www.python.org/ "Python3")
 [![](https://img.shields.io/badge/Made_with-PyTorch-blue?style=for-the-badge&logo=pytorch)](https://www.pytorch.org/ "PyTorch")
-![](https://img.shields.io/badge/Made_with-gray?style=for-the-badge)![](https://camo.githubusercontent.com/73d564e43fbbcbdb679fc42cf9ab64a029de575c202322a3015fbfd860f2dd79/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4f70656e41492b47796d26636f6c6f723d303038314135266c6f676f3d4f70656e41492b47796d266c6f676f436f6c6f723d464646464646266c6162656c3d)
+[![](https://img.shields.io/badge/Made_with-OpenAI_Gym-blue?style=for-the-badge&logo=openai)](https://www.pytorch.org/ "PyTorch")
 
 <br>
 
@@ -18,7 +17,7 @@
 
 ### About:
 
-**Framework for Atari Reinforcement Learning (FARL)** is a reinforcement learning framework made with PyTorch, built on top of OpenAI Gym to allow training of any Atari game from the ALE environment and perform transfer learning across games. The core algorithm used for performing training of Atari Games in this framework is Deep Q-Networks (DQNs) as of now.
+**Framework for Atari Reinforcement Learning Environment (FARLE)** is a reinforcement learning framework made with PyTorch, built on top of OpenAI Gym to allow training of any Atari game from the ALE environment and perform transfer learning across games. The core algorithm used for performing training of Atari Games in this framework is Deep Q-Networks (DQNs) as of now.
 
 ### Problems it solves:
 
@@ -121,7 +120,7 @@ $ python3 main.py --name "Pong-from-Breakout-Resume" \
 
 ---
 
-<h3 align="center"><b>Developed with :heart: by: </b></h3>
+<h3 align="center"><b>Developed with ❤️ by: </b></h3>
 <div align="center">
 <table style="border:1px solid black;margin-left:auto;margin-right:auto;">  
   <tr>
@@ -132,7 +131,6 @@ $ python3 main.py --name "Pong-from-Breakout-Resume" \
 
 <p align="center">
 <a href = "https://github.com/arghyadeep99"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://twitter.com/arghyadeepdas99"><img src = "https://www.shareicon.net/download/2016/07/06/107115_media.svg" width="36" height="36"/></a>
 <a href = "https://www.linkedin.com/in/arghyadeep-das/"><img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/></a>
 </p>
 </td>
@@ -157,6 +155,3 @@ $ python3 main.py --name "Pong-from-Breakout-Resume" \
 <a href = "https://www.linkedin.com/in/aviiii/"><img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/></a>
 </p>
 </td>
-</tr>
-</table>
-</div>
