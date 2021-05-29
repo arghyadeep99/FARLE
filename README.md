@@ -125,9 +125,9 @@ $ python3 main.py --name "Pong-from-Breakout-Resume" \
   <tr>
 <td>
   <img algin ="center" src="https://avatars3.githubusercontent.com/u/33197180?s=150&v=4"/>
- 
+ <br>
 	Arghyadeep Das
-
+<br>
 <p align="center">
 <a href = "https://github.com/arghyadeep99"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
 <a href = "https://www.linkedin.com/in/arghyadeep-das/"><img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/></a>
@@ -136,9 +136,9 @@ $ python3 main.py --name "Pong-from-Breakout-Resume" \
 
 <td>
   <img align='center' src="https://user-images.githubusercontent.com/33197180/114586227-0f48db00-9ca2-11eb-8211-aeb8a16440e3.jpeg" width="150" height="150">
- 
+ <br>
 	Vedant Shroff
-
+<br>
 <p align="center">
 <a href = "https://github.com/vedant-shroff"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
 <a href = "https://www.linkedin.com/in/vedant-shroff-31015615a/"><img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/></a>
@@ -146,9 +146,9 @@ $ python3 main.py --name "Pong-from-Breakout-Resume" \
 
 <td>
   <img align='center' src="https://media-exp1.licdn.com/dms/image/C4D03AQFG6myoYUcwOw/profile-displayphoto-shrink_800_800/0/1617183828622?e=1623888000&v=beta&t=XIVx-0VISyhJFPSN8o2Txieink0lxb_Tu9rxrTRlZwI" width="150">
-     
+     <br>
 	Avi Jain
-
+<br>
 <p align="center">
 <a href = "https://github.com/aviiiij"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
 <a href = "https://www.linkedin.com/in/aviiii/"><img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/></a>
