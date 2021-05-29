@@ -24,7 +24,7 @@
 * A transfer learning framework for RL-based video game training is not found conveniently.
 * Lack of easy-to-use tools to train models using OpenAI Gym Wrapper.
 * This framework allows users to play with a lot of different parameters, giving users full liberty to customise their models as they wish.
-* It allows people will less backgrund in Reinforcement Learning get started with building models without having to understand each and every technicality.
+* It allows people will less background in Reinforcement Learning get started with building models without having to understand each and every technicality.
 * It provides for robust experimentation as it maintains configuration and logs of model training, helping users analyze how much their model took time to train, their its performance, rewards achieved over time, improvements seen with transfer learning, etc. 
 
 ---
@@ -91,66 +91,35 @@ $ python3 main.py --name "Pong-from-Breakout-Resume" \
 * CLI-based parameter settings for experimentation.
 * Supports both CPU and GPU.
 * Model checkpointing for both scratch training and transfer learning, so that one can train models with limited GPU access by doing training in different time batches.
-* Logging system for plotting different metrics and analyze the experiments performed. 
+* Logging system for plotting different metrics and analyze the experiments performed.
+* Beginner-friendly graph plotting notebooks for logs recorded.
 
 
 ### Future scope of this project:
 
-* Implement other algorithms like A3C, etc. for training and transfer learning of Atari games. 
-* Add TensorBoard support.
-* Add support for recording gameplay for specific training periods.
+* Implement other algorithms like A3C, Rainbow, etc. for training and transfer learning of Atari games. 
+* Add support for more games like flash games, retro games, etc. through OpenAI Universe.
+* Add TensorBoard support for enhanced logging.
+* Add Weights and Biases integration for tracking training progress and visualization of weights as they change throughout the training process.
+* Add video recording capability for rendering gameplay training strategies during training and testing.
 * Add TPU support.
 
 ### To run the project:
 
-* [Fork](https://github.com/RL-LY-Project/Atari-Transfer-Learning) this Repository.
+* [Fork](https://github.com/arghyadeep99/FARLE) this Repository.
 * cd into the directory in the terminal and run as:
   -`pip install -r requirements.txt`
 * Run the commands above according to your needs.
 
 
 #### This project still has scope of development, so you can also contribute to this Project as follows:
-* [Fork](https://github.com/RL-LY-Project/Atari-Transfer-Learning) this Repository.
+* [Fork](https://github.com/arghyadeep99/FARLE) this Repository.
 * Clone your Fork on a different branch:
-	* `git clone -b <name-of-branch> https://github.com/RL-LY-Project/Atari-Transfer-Learning.git`
+	* `git clone -b <name-of-branch> https://github.com/arghyadeep99/FARLE.git`
 * After adding any feature:
 	* Go to your fork and create a pull request.
 	* We will test your modifications and merge changes.
 
 ---
 
-<h3 align="center"><b>Developed with ❤️ by: </b></h3>
-<div align="center">
-<table style="border:1px solid black;margin-left:auto;margin-right:auto;">  
-  <tr>
-<td>
-  <img algin ="center" src="https://avatars3.githubusercontent.com/u/33197180?s=150&v=4"/>
- <br>
-	Arghyadeep Das
-<br>
-<p align="center">
-<a href = "https://github.com/arghyadeep99"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/arghyadeep-das/"><img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/></a>
-</p>
-</td>
-
-<td>
-  <img align='center' src="https://user-images.githubusercontent.com/33197180/114586227-0f48db00-9ca2-11eb-8211-aeb8a16440e3.jpeg" width="150" height="150">
- <br>
-	Vedant Shroff
-<br>
-<p align="center">
-<a href = "https://github.com/vedant-shroff"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/vedant-shroff-31015615a/"><img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/></a>
-</p>
-
-<td>
-  <img align='center' src="https://media-exp1.licdn.com/dms/image/C4D03AQFG6myoYUcwOw/profile-displayphoto-shrink_800_800/0/1617183828622?e=1623888000&v=beta&t=XIVx-0VISyhJFPSN8o2Txieink0lxb_Tu9rxrTRlZwI" width="150">
-     <br>
-	Avi Jain
-<br>
-<p align="center">
-<a href = "https://github.com/aviiiij"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
-<a href = "https://www.linkedin.com/in/aviiii/"><img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/></a>
-</p>
-</td>
+<h3 align="center"><b>Developed with ❤️ by <a href="https://github.com/arghyadeep99">Arghyadeep Das</a>, <a href="https://github.com/vedant-shroff">Vedant Shroff</a> and <a href="https://github.com/aviiiij">Avi Jain</a>. </b></h3>
