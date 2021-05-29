@@ -39,7 +39,7 @@ $ python3 main.py --name "Breakout-Scratch" \
                 --replay_memory_size 50000 \
                 --replay_start_size 25000 \
                 --episodes 50000 \
-		-- cuda
+		--cuda
 ```
 
 2. Training a model via transfer learning:
@@ -66,7 +66,7 @@ $ python3 main.py --name "Breakout-Resume" \
                 --replay_memory_size 50000 \
                 --replay_start_size 25000 \
                 --episodes 50000 \
-		-- cuda
+		--cuda
 ```
 
 4. Resume transfer learning of model from checkpoint:
@@ -81,7 +81,7 @@ $ python3 main.py --name "Pong-from-Breakout-Resume" \
                 --replay_memory_size 50000 \
                 --replay_start_size 25000 \
                 --episodes 50000 \
-		-- cuda
+		--cuda
 ```
 
 ---
