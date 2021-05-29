@@ -4,10 +4,9 @@
 <img src = "https://user-images.githubusercontent.com/33197180/111116948-cd3a5580-858c-11eb-92d6-12aec493b91f.png" width="500" />
 
 <br>
-
-[![](https://img.shields.io/badge/Made_with-Python3-blue?style=for-the-badge&logo=python)](https://www.python.org/ "Python3")
-[![](https://img.shields.io/badge/Made_with-PyTorch-blue?style=for-the-badge&logo=pytorch)](https://www.pytorch.org/ "PyTorch")
-[![](https://img.shields.io/badge/Made_with-OpenAI_Gym-blue?style=for-the-badge&logo=openai)](https://www.pytorch.org/ "PyTorch")
+<img src = "https://img.shields.io/badge/Made_with-Python3-blue?style=for-the-badge&logo=python" />
+<img src = "https://img.shields.io/badge/Made_with-PyTorch-blue?style=for-the-badge&logo=pytorch"/>
+<img src = "https://img.shields.io/badge/Made_with-OpenAI_Gym-blue?style=for-the-badge&logo=openai" />
 
 <br>
 
@@ -21,12 +20,12 @@
 
 ### Problems it solves:
 
-* [x] A lot of research progress has been made in the field of reinforcement learning for training video games. However, a generic framework or template to easily train games was not easily available.
-* [x] A transfer learning framework for RL-based video game training is not found conveniently.
-* [x] Lack of easy-to-use tools to train models using OpenAI Gym Wrapper.
-* [x] This framework allows users to play with a lot of different parameters, giving users full liberty to customise their models as they wish.
-* [x] It allows people will less backgrund in Reinforcement Learning get started with building models without having to understand each and every technicality.
-* [x] It provides for robust experimentation as it maintains configuration and logs of model training, helping users analyze how much their model took time to train, their its performance, rewards achieved over time, improvements seen with transfer learning, etc. 
+* A lot of research progress has been made in the field of reinforcement learning for training video games. However, a generic framework or template to easily train games was not easily available.
+* A transfer learning framework for RL-based video game training is not found conveniently.
+* Lack of easy-to-use tools to train models using OpenAI Gym Wrapper.
+* This framework allows users to play with a lot of different parameters, giving users full liberty to customise their models as they wish.
+* It allows people will less backgrund in Reinforcement Learning get started with building models without having to understand each and every technicality.
+* It provides for robust experimentation as it maintains configuration and logs of model training, helping users analyze how much their model took time to train, their its performance, rewards achieved over time, improvements seen with transfer learning, etc. 
 
 ---
 
@@ -89,18 +88,18 @@ $ python3 main.py --name "Pong-from-Breakout-Resume" \
 
 ### Features:
 
-* [x] CLI-based parameter settings for experimentation.
-* [x] Supports both CPU and GPU.
-* [x] Model checkpointing for both scratch training and transfer learning, so that one can train models with limited GPU access by doing training in different time batches.
-* [x] Logging system for plotting different metrics and analyze the experiments performed. 
+* CLI-based parameter settings for experimentation.
+* Supports both CPU and GPU.
+* Model checkpointing for both scratch training and transfer learning, so that one can train models with limited GPU access by doing training in different time batches.
+* Logging system for plotting different metrics and analyze the experiments performed. 
 
 
 ### Future scope of this project:
 
-* [ ] Implement other algorithms like A3C, etc. for training and transfer learning of Atari games. 
-* [ ] Add TensorBoard support.
-* [ ] Add support for recording gameplay for specific training periods.
-* [ ] Add TPU support.
+* Implement other algorithms like A3C, etc. for training and transfer learning of Atari games. 
+* Add TensorBoard support.
+* Add support for recording gameplay for specific training periods.
+* Add TPU support.
 
 ### To run the project:
 
