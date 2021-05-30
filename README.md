@@ -16,7 +16,7 @@
 
 ### About:
 
-**Framework for Atari Reinforcement Learning Environment (FARLE)** is a reinforcement learning framework made with PyTorch, built on top of OpenAI Gym to allow training of any Atari game from the ALE environment and perform transfer learning across games. The core algorithm used for performing training of Atari Games in this framework is Deep Q-Networks (DQNs) as of now.
+**Framework for Atari Reinforcement Learning Environment (FARLE)** is a reinforcement learning CLI-tool made with PyTorch, built on top of OpenAI Gym to allow training of any Atari game from the ALE environment and perform transfer learning across games. The core algorithm used for performing training of Atari Games in this framework is Deep Q-Networks (DQNs) as of now.
 
 ### Problems it solves:
 
@@ -29,7 +29,7 @@
 
 ---
 
-### Commands to use in FARL
+### Commands to use in FARLE
 
 1. Training a model from scratch:
 	
@@ -103,6 +103,7 @@ $ python3 main.py --name "Pong-from-Breakout-Resume" \
 * Add Weights and Biases integration for tracking training progress and visualization of weights as they change throughout the training process.
 * Add video recording capability for rendering gameplay training strategies during training and testing.
 * Add TPU support.
+* Add GUI.
 
 ### To run the project:
 
