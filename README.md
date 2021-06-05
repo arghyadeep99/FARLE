@@ -1,7 +1,7 @@
 <h1 align="center">FARLE: Framework for Atari Reinforcement Learning Environment</h1>
 
 <div align="center">
-<img src = "https://user-images.githubusercontent.com/33197180/111116948-cd3a5580-858c-11eb-92d6-12aec493b91f.png" width="500" />
+<img src = "https://user-images.githubusercontent.com/33197180/120876562-0e139a80-c5cf-11eb-856e-47d2c05f4909.png" width="300" />
 
 <br>
 <img src = "https://img.shields.io/badge/Made_with-Python3-blue?style=for-the-badge&logo=python" />
@@ -108,8 +108,8 @@ $ python3 main.py --name "Pong-from-Breakout-Resume" \
 ### To run the project:
 
 * [Fork](https://github.com/arghyadeep99/FARLE) this Repository.
-* cd into the directory in the terminal and run as:
-  -`pip install -r requirements.txt`
+* `cd` into the directory in the terminal and run as:
+	* `pip3 install -r requirements.txt`
 * Run the commands above according to your needs.
 
 
