@@ -123,4 +123,4 @@ $ python3 main.py --name "Pong-from-Breakout-Resume" \
 
 ---
 
-<h3 align="center"><b>Developed with ❤️ by <a href="https://github.com/arghyadeep99">Arghyadeep Das</a>, <a href="https://github.com/vedant-shroff">Vedant Shroff</a> and <a href="https://github.com/aviiiij">Avi Jain</a>. </b></h3>
+<h3 align="center"><b>Developed with ❤️ by <a href="https://github.com/arghyadeep99">Arghyadeep Das</a> and <a href="https://github.com/vedant-shroff">Vedant Shroff</a>. Logo by <a href="https://github.com/aviiiij">Avi Jain</a>.</b></h3>
