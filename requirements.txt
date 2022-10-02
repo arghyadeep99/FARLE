@@ -3,4 +3,4 @@ gym==0.18.0
 tqdm==4.60.0
 torch==1.8.1
 numpy==1.17.4
-PyYAML==5.4.1
+PyYAML==6.0
