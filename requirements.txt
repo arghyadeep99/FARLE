@@ -1,6 +1,6 @@
 opencv_python==4.7.0.72
 gym==0.26.2
-tqdm==4.64.1
+tqdm==4.65.0
 torch==1.13.1
 numpy==1.24.2
 PyYAML==6.0
